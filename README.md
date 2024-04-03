@@ -48,6 +48,7 @@ Join the Discord server: <https://discord.gg/FDZ33E9gqU>
 - EVE IPH: <https://discord.gg/txUvgH7yaj>
 - GESI: <https://discordapp.com/invite/eEAH2et>
 - jEveAssets: <https://discord.gg/8kYZvbM>
+- DEV.EVEONLINE.IT: <https://discord.com/invite/K2djsX9sH3>
 
 ### Services
 - PushX: <https://discord.gg/S4Vsux2>
