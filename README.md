@@ -1,7 +1,7 @@
 # EVE Online Industry Resources
 Join the Discord server: <https://discord.gg/FDZ33E9gqU>
 
-*To suggest things to add to the list, just tag an @Admin in #general-chat in that discord server above*
+*To suggest things to add to the list, just tag an @Admin in #general-chat in that discord server above (or do the github thing)*
 
 ## General Info
 - Fuzzwork - <https://www.fuzzwork.co.uk/>
