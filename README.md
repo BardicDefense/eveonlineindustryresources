@@ -14,7 +14,7 @@ Join the Discord server: <https://discord.gg/FDZ33E9gqU>
 
 ## Industry Planning
 - Ravworks: <https://ravworks.com/>
-- The Lazy Blacksmith: <https://lazy-blacksmith.space/blueprint>
+- The Lazy Blacksmith: <[https://lazy-blacksmith.space/blueprint](https://lzb.eveskillboard.com/blueprint/)>
 - EVE Industry Planner - <https://www.eveindustryplanner.com/>
 - T3C Production <https://forums.eveonline.com/t/t3-manufacturing-spreadsheet-2022-v4-6-update/302032>
 - Industry Slot Calculator: <https://docs.google.com/spreadsheets/d/1_HC-jliifMSHe3beRWmnx5RBGT-ZYdCtl1dSir_4Irc/edit?usp=sharing>
